@@ -184,24 +184,7 @@
      opacity: 0.5;
    }
  }
- @font-face {
-   font-family: 'Nunito Sans';
-   font-style: italic;
-   font-weight: 400;
-   src: url(https://fonts.gstatic.com/s/nunitosans/v6/pe0oMImSLYBIv1o4X1M8cce4E9lKcw.ttf) format('truetype');
- }
- @font-face {
-   font-family: 'Nunito Sans';
-   font-style: normal;
-   font-weight: 400;
-   src: url(https://fonts.gstatic.com/s/nunitosans/v6/pe0qMImSLYBIv1o4X1M8cce9I94.ttf) format('truetype');
- }
- @font-face {
-   font-family: 'Nunito Sans';
-   font-style: normal;
-   font-weight: 800;
-   src: url(https://fonts.gstatic.com/s/nunitosans/v6/pe03MImSLYBIv1o4X1M8cc8aBc5tU1Q.ttf) format('truetype');
- }
+
  .force-wrap {
    word-wrap: break-word;
    word-break: break-all;
@@ -210,15 +193,15 @@
    hyphens: auto;
  }
  .type-light {
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 300;
  }
  .type-bold {
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 800;
  }
  .type-italic {
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 400;
    font-style: italic;
  }
@@ -237,11 +220,10 @@
    -moz-osx-font-smoothing: grayscale;
  }
  body {
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-style: 400;
    color: #333;
    font-size: 16px;
-   background-color: #26c6da;
  }
  h1,
  h2,
@@ -249,7 +231,7 @@
  h4,
  h5,
  h6 {
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-style: 400;
    margin: 0;
    padding: 0;
@@ -305,7 +287,7 @@
  textarea {
    font-size: 14px;
    line-height: 20px;
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-style: 400;
    padding: 0.75rem 0;
    line-height: 1.5rem !important;
@@ -835,7 +817,7 @@
    letter-spacing: 0.3em;
    text-indent: 0.3em;
    text-transform: uppercase;
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 800;
    font-size: 11px;
    padding-left: 15px;
@@ -971,7 +953,7 @@
  .wrapper-message .title-message {
    font-size: 16px;
    line-height: 24px;
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 800;
    color: #555;
  }
@@ -1005,7 +987,7 @@
    overflow: hidden;
    text-overflow: ellipsis;
    white-space: nowrap;
-   font-family: 'Nunito Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: system-ui;
    font-weight: 800;
    color: #1c3f53;
    display: inline-block;
