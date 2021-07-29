@@ -1,19 +1,15 @@
-import './App.css';
-import Button from './components/Button';
+import { Provider } from 'react-redux';
+import store from './lib/redux';
 
+import InboxScreen from './components/InboxScreen';
+
+import './index.css';
 
 function App() {
   return (
-    <div className="App">
-      
-        <h1>React App with Storybook</h1>
-
-        <p><Button>Click Me</Button></p>
-        <Button>Another button</Button>
-
-      
-    </div>
+    <Provider store={store}>
+      <InboxScreen />
+    </Provider>
   );
 }
-
 export default App;
