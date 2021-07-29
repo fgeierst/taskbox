@@ -36,6 +36,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -76,6 +81,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -116,6 +126,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -156,6 +171,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -196,6 +216,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -236,6 +261,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -276,6 +306,11 @@ exports[`Storyshots InboxScreen Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -345,6 +380,11 @@ exports[`Storyshots Task Archived 1`] = `
       defaultChecked={true}
       disabled={true}
       name="checked"
+      style={
+        Object {
+          "background": "red",
+        }
+      }
       type="checkbox"
     />
     <span
@@ -380,6 +420,11 @@ exports[`Storyshots Task Default 1`] = `
       defaultChecked={false}
       disabled={true}
       name="checked"
+      style={
+        Object {
+          "background": "red",
+        }
+      }
       type="checkbox"
     />
     <span
@@ -423,6 +468,11 @@ exports[`Storyshots Task Pinned 1`] = `
       defaultChecked={false}
       disabled={true}
       name="checked"
+      style={
+        Object {
+          "background": "red",
+        }
+      }
       type="checkbox"
     />
     <span
@@ -476,6 +526,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -516,6 +571,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -556,6 +616,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -596,6 +661,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -636,6 +706,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -676,6 +751,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -716,6 +796,11 @@ exports[`Storyshots TaskList Default 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -950,6 +1035,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -990,6 +1080,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -1030,6 +1125,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -1070,6 +1170,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -1110,6 +1215,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
@@ -1150,6 +1260,11 @@ exports[`Storyshots TaskList With Pinned Tasks 1`] = `
           defaultChecked={false}
           disabled={true}
           name="checked"
+          style={
+            Object {
+              "background": "red",
+            }
+          }
           type="checkbox"
         />
         <span
