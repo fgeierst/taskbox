@@ -1,5 +1,4 @@
 import './App.css';
-// import Task from './components/Task';
 import Button from './components/Button';
 
 
@@ -9,7 +8,9 @@ function App() {
       
         <h1>React App with Storybook</h1>
 
-        <Button>Click Me</Button>
+        <p><Button>Click Me</Button></p>
+        <Button>Another button</Button>
+
       
     </div>
   );
